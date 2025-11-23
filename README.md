@@ -42,7 +42,7 @@ For more 2025 accepted proposals from 100xDevs, check out this blog post: [100xd
 
 # Proposal Count
 
-Total proposals submitted: **41**
+Total proposals submitted: **42**
 
 ## Contributing a Proposal
 
@@ -102,6 +102,7 @@ That's it. Your work could help someone get in next year.
 
 - [x] AOSSIE
 - [x] Alaska
+- [x] AnkiDroid
 - [x] BeagleBoard.org
 - [x] CHAOSS
 - [x] CNCF
@@ -141,7 +142,9 @@ That's it. Your work could help someone get in next year.
 - [Dishant Miyani](https://github.com/Dishant1804)
 - [Eddie Liu](https://github.com/taoerman)
 - [Gauri Ket](https://github.com/gauriket)
+- [Hari Srinivasan](https://github.com/Haz3-jolt)
 - [iqbal](https://github.com/iqbalcodes6602)
+- [Ishaan Gupta](https://github.com/ishaanxgupta)
 - [Ishan Mitra](https://github.com/ishanmitra)
 - [Jay Kapadia](https://github.com/JayKapadia389)
 - [Kapil Sareen](https://github.com/KapilSareen)
@@ -172,8 +175,10 @@ That's it. Your work could help someone get in next year.
   <a href="https://github.com/Dishant1804"><img src="https://github.com/Dishant1804.png" width="60px" alt="Dishant1804" /></a>
   <a href="https://github.com/f-ei8ht"><img src="https://github.com/f-ei8ht.png" width="60px" alt="f-ei8ht" /></a>
   <a href="https://github.com/gauriket"><img src="https://github.com/gauriket.png" width="60px" alt="gauriket" /></a>
+  <a href="https://github.com/Haz3-jolt"><img src="https://github.com/Haz3-jolt.png" width="60px" alt="Haz3-jolt" /></a>
   <a href="https://github.com/ImRAJAS-SAMSE"><img src="https://github.com/ImRAJAS-SAMSE.png" width="60px" alt="ImRAJAS-SAMSE" /></a>
   <a href="https://github.com/iqbalcodes6602"><img src="https://github.com/iqbalcodes6602.png" width="60px" alt="iqbalcodes6602" /></a>
+  <a href="https://github.com/ishaanxgupta"><img src="https://github.com/ishaanxgupta.png" width="60px" alt="ishaanxgupta" /></a>
   <a href="https://github.com/ishanmitra"><img src="https://github.com/ishanmitra.png" width="60px" alt="ishanmitra" /></a>
   <a href="https://github.com/KapilSareen"><img src="https://github.com/KapilSareen.png" width="60px" alt="KapilSareen" /></a>
   <a href="https://github.com/krishnavbajoria02"><img src="https://github.com/krishnavbajoria02.png" width="60px" alt="krishnavbajoria02" /></a>
